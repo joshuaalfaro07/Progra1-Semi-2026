@@ -19,7 +19,7 @@ namespace miPrimeraAplicacion
         DataSet ObjDs = new DataSet(); // Representa una copia en memoria de la arquitectura de la BD
 
         public Conexión() {// Constructor e inicializadorde los mienbros de la clase
-            String cadenaCoenxion = @"";
+            String cadenaCoenxion = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\db_academica.mdf;Integrated Security=True";
         
         }
     }
