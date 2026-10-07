@@ -1,0 +1,13 @@
+C:\Users\Estudiante\source\repos\Progra1-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\db_academica.mdf
+C:\Users\Estudiante\source\repos\Progra1-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\db_academica_log.ldf
+C:\Users\Estudiante\source\repos\Progra1-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\miPrimeraAplicacion.exe.config
+C:\Users\Estudiante\source\repos\Progra1-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\miPrimeraAplicacion.exe
+C:\Users\Estudiante\source\repos\Progra1-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\miPrimeraAplicacion.pdb
+C:\Users\Estudiante\source\repos\Progra1-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\Progra1-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.Form1.resources
+C:\Users\Estudiante\source\repos\Progra1-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.frmPrincipal.resources
+C:\Users\Estudiante\source\repos\Progra1-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\Progra1-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\Progra1-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Progra1-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.exe
+C:\Users\Estudiante\source\repos\Progra1-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.pdb
